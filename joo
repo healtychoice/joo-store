@@ -73,7 +73,7 @@
     <h1>🛒 joo store</h1>
     <input type="text" id="search" placeholder="ابحث عن منتج..." onkeyup="renderProducts()">
     <select id="categoryFilter" onchange="renderProducts()">
-        <option value="all">كل الأقسام</option>
+        <option value="all"> كل الأقسام</option>
         <option value="الكترونيات">إلكترونيات</option>
         <option value="ملابس">ملابس</option>
         <option value="اكسسوارات">إكسسوارات</option>
